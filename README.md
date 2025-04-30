@@ -1,6 +1,6 @@
 # CodePaster
 
-check - <a href='code-paster.vercel.app'>CodePaster</a><br/><br/>
+check - <a href='https://code-paster.vercel.app/'>CodePaster</a><br/><br/>
 CodePaster is a simple web app designed for saving and managing your notes. It leverages the browser's local storage to store notes persistently across sessions. Ideal for quick access to ideas, snippets, or reminders.<br/><br/>
 
 Technologies Used💻<br/>
